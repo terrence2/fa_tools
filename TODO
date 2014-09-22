@@ -1,0 +1,33 @@
+FNT
+PIC - format 1
+PIC - format 0: pink... are they masks or decoded wrong?
+AI
+8K
+BI
+BIN
+CAM
+DLG
+ECM
+JT
+GAS
+HGR
+HUD
+LAY
+M     - mission definition
+MT    - mission briefing text
+MM    (maybe base mission area data)
+MUS
+NT    - npc type data)
+OT    - object type data)
+PT    - plane type data)
+SEE
+SEQ
+SH
+T2
+TXT
+XMI   - eXtended MIdi
+
+
+MC    (code)
+MNU   (code)
+PTS   (code)

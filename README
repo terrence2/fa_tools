@@ -1,0 +1,17 @@
+FA Tools
+===
+
+A digital archeology project to better understand the design and implementation
+of the Fighters Anthology (FA) game engine.
+
+FA was a flightsim released in 1997 by EA under the Jane's(r) Combat Simulations
+label as a rollup and re-release of the six prior games implemented in the same
+engine: USNF, USNF Marine Fighers, ATF, ATF Nato Fighters, ATF Gold, and
+USNF'97. Although released in 1997 and listing a 90Mhz pentium under the minimum
+system requirements, the engine actually dates back to 1994 and ran on a 486,
+although with lower resolution resources.
+
+When it was released 20 years ago, USNF was a groundbreaking piece of technology
+that pushed the limits of what could be done with a computer. While it may look
+antiquated to modern eyes, the engineering compromises that allowed it to run on
+machines of that era are no less fascinating today.
