@@ -1,16 +1,16 @@
 FNT
-PIC - format 1
-PIC - format 0: pink... are they masks or decoded wrong?
-AI
-8K
-BI
-BIN
-CAM
+PIC#fmt1
+AI    - logic for various plane categories in script form
+BI    - PE format files -- either support for AI or a compiled version, guessing pre-compiled.
+BIN   - appear to be pre-computed tables mapping [0-0x200]->bytes
+CAM   - campaign definitions -- appears to be a PE
+CB8
 DLG
 ECM
-JT
-GAS
-HGR
+INF
+JT    - missle definitions
+GAS   - external fuel tank definition
+HGR   - more PE files for AIRB[2]
 HUD
 LAY
 M     - mission definition
@@ -20,10 +20,10 @@ MUS
 NT    - npc type data)
 OT    - object type data)
 PT    - plane type data)
-SEE
+SEE   - plane and pod sensor definitions
 SEQ
-SH
-T2
+SH    - PE files
+T2    - Terrain data?
 TXT
 XMI   - eXtended MIdi
 
@@ -31,3 +31,9 @@ XMI   - eXtended MIdi
 MC    (code)
 MNU   (code)
 PTS   (code)
+
+Done
+====
+PIC - format 0
+8K
+11K

@@ -156,7 +156,7 @@ def decode_fmt0_external_palette(fn, output_filename, data, width, height, pixel
 def decode_fmt0(fn, output_filename, data):
     header = data[0:0x40]
 
-    (fmt, width, height, always64, pixels_size,
+    (fmt, width, height, pixels_offset, pixels_size,
      palette_offset, palette_size,
      unk0, unk1,
      rowheads_offset, rowheads_size) = (
